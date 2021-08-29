@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Amir Babamahmoudi
@@ -48,7 +48,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: 
       Hi there. I am a B.Sc senior student at Amirkabir University of Technology.
      I am interested in Machine Learning and Deep Learning. 
