@@ -49,7 +49,7 @@ sidebar:
         link:
 
 career-profile:
-    title: About
+    title: About Me
     summary: |
       Hi there. I am a B.Sc senior student at Amirkabir University of Technology.
      I am interested in Machine Learning and Deep Learning. 
@@ -98,7 +98,7 @@ projects:
         tagline: "A Contend-Based and Simple Recommender System for University AI Course."
 
       - title: ETL Pipeline to synchronize two databases
-        link: "#"
+        link: "https://github.com/amirbabamahmoudi/database-pipeline"
         tagline: "Designed a DataBase and a Warehouse to Save Changes Using Python and PostgreSQL, and also Comparing Two DataBases and Sync them together for University DataBase Course."
 
       
