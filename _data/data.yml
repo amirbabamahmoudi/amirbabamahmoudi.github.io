@@ -49,8 +49,8 @@ sidebar:
         link:
 
 career-profile:
-    title: About Me
-    summary: 
+    title: About
+    summary: |
       Hi there. I am a B.Sc senior student at Amirkabir University of Technology.
      I am interested in Machine Learning and Deep Learning. 
       I'm studying Computer Vision and working on Deep Generative Models.
@@ -67,91 +67,52 @@ education:
       #details: |
        
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Research Assistant
+      time: Summer 2021
+      company: DATA SCIENCE INNOVATION CENTER, Amirkabir university, Tehran
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Driver Assistant: Using Computer Vision for recognizing and monitoring 
+        the driver for evaluating driver's safeness.
+          - Supervisor: Dr. Mohammad Akbari
+          
+    - role: Undergraduate Teaching Assistant
+      time: Spring 2021
+      company: Amirkabir university of technology
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        INTRODUCTION TO COMPUTER AND PROGRAMMING (C LANGUAGE)
+          - Instructor: Dr. Mohammahd Akbari
+          
+    - role: Staff in ACM-ICPC University Competeion
+      time: Winter 2018
+      company: Amirkabir university of technology
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I've been in centeral team for holding a contest for choosing best teams in university.
+
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    #intro: >
+
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Recommender System on Goodreads Book Dataset
+        link: "https://github.com/amirbabamahmoudi/AI-projects/tree/main/recommender_system"
+        tagline: "A Contend-Based and Simple Recommender System for University AI Course."
 
-      - title: DevStudio
+      - title: ETL Pipeline to synchronize two databases
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Designed a DataBase and a Warehouse to Save Changes Using Python and PostgreSQL, and also Comparing Two DataBases and Sync them together for University DataBase Course."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      
+#publications:
+    #title: Publications
+    #intro: |
+     # You can list your publications in this section. Lorem ipsum dolor sit
+     # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+     # bibendum fringilla a eu lectus.
+    #papers:
+      #- title: The Art of Computer Programming
+       # link: "#"
+       # authors: Donald E. Knuth
+       # conference: Addison-Wesley, 1968
 
 skills:
     title: Skills &amp; Proficiency
