@@ -62,14 +62,14 @@ education:
      # details: |
        
     - degree: Diploma of Mathematics and Physics
-      university: Nationa Organization for Development of Exceptional Talents
+      university: National Organization for Development of Exceptional Talents(Shahid Soltani1)
       time: 2014 - 2018
       #details: |
        
 experiences:
     - role: Research Assistant
       time: Summer 2021
-      company: DATA SCIENCE INNOVATION CENTER, Amirkabir university, Tehran
+      company: Data Science Innovation Center, Amirkabir University, Tehran
       details: |
         Driver Assistant: Using Computer Vision for recognizing and monitoring 
         the driver for evaluating driver's safeness.
@@ -79,14 +79,14 @@ experiences:
       time: Spring 2021
       company: Amirkabir university of technology
       details: |
-        INTRODUCTION TO COMPUTER AND PROGRAMMING (C LANGUAGE)
+        Introduction to Computer and Programming (C Language)
           - Instructor: Dr. Mohammahd Akbari
           
     - role: Staff in ACM-ICPC University Competeion
       time: Winter 2018
       company: Amirkabir university of technology
       details: |
-        I've been in centeral team for holding a contest for choosing best teams in university.
+        I've been in centeral team for holding a contest for choosing best teams for West-Asia Contest.
 
 projects:
     title: Projects
@@ -97,7 +97,7 @@ projects:
         link: "https://github.com/amirbabamahmoudi/AI-projects/tree/main/recommender_system"
         tagline: "A Contend-Based and Simple Recommender System for University AI Course."
 
-      - title: ETL Pipeline to synchronize two databases
+      - title: ETL Pipeline to Synchronize Two Databases
         link: "https://github.com/amirbabamahmoudi/database-pipeline"
         tagline: "Designed a DataBase and a Warehouse to Save Changes Using Python and PostgreSQL, and also Comparing Two DataBases and Sync them together for University DataBase Course."
 
