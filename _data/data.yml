@@ -76,12 +76,11 @@ experiences:
           - Supervisor: Dr. Mohammad Akbari
           
     - role: Undergraduate Teaching Assistant
-      time: Spring 2021
+      time: Spring 2021 - Present
       company: Amirkabir university of technology
       details: |
-        Introduction to Computer and Programming (C Language)
-          - Instructor: Dr. Mohammahd Akbari
-          
+          - Artificial Intelligence - Instructor: Dr. Marjaneh Goodarzi
+          - Introduction to programming(C Langiage) - Instructor: Dr. Mohammad Akbari 
     - role: Staff in ACM-ICPC University Competeion
       time: Winter 2018
       company: Amirkabir university of technology
@@ -97,10 +96,17 @@ projects:
         link: "https://github.com/amirbabamahmoudi/AI-projects/tree/main/recommender_system"
         tagline: "A Contend-Based and Simple Recommender System for University AI Course."
 
+      - title: Solitaire game solver 
+        link: "https://github.com/amirbabamahmoudi/AI-projects/tree/main/heuristic%20for%20solitair"
+        tagline: "Using a heuristic function to find final solution for solitaire game for Artificial Intelligence Course with python"
+        
       - title: ETL Pipeline to Synchronize Two Databases
         link: "https://github.com/amirbabamahmoudi/database-pipeline"
         tagline: "Designed a DataBase and a Warehouse to Save Changes Using Python and PostgreSQL, and also Comparing Two DataBases and Sync them together for University DataBase Course."
 
+      - title: LU decomposition with partial pivoting implementation
+        link: "https://github.com/amirbabamahmoudi/numerical-analysis"
+        tagline: "implementing LU and Choleskey decompositions Using MATLAB and Python"
       
 #publications:
     #title: Publications
